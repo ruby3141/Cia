@@ -1,0 +1,9 @@
+Cia
+====
+
+Cia(pronounced like "see-ah") is a module based, hot-loadable IRC bot framework in C.
+
+dependency
+----
+
+* jsmn: MIT, https://github.com/zserge/jsmn 
