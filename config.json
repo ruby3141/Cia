@@ -1,0 +1,17 @@
+{
+	"bot":
+	{
+		"nickname":"시아",
+		"username":"cia_bot",
+		"realname":"시아에요! ./help | ./도움 을 참조하세요!"
+	},
+	"server" : 
+	{
+		"name" : "Ozinger",
+		"url":"irc.ozinger.org",
+		"port" : "6667",
+		"encoding" : "utf8",
+		"channel" : ["#uncyclopedia","#전자소리놀이","#XGC"],
+		"loginscript" : []
+	}
+}
