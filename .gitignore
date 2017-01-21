@@ -1,4 +1,4 @@
-#files without extends
+# files without extends
 *
 !/**/
 !*.*
@@ -37,3 +37,6 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Editor swap files
+*.swp

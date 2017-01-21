@@ -7,7 +7,7 @@ LIB = libjsmn.a
 OBJ = cia.o
 SRC = cia.c
 
-CFLAGS = -W -Wall -Wformat=2 -Wstrict-aliasing=2 -O2 -I $(INC)
+CFLAGS = -W -Wall -Wformat=2 -Wstrict-aliasing=2 -O0 -g -I $(INC)
 LFLAGS =
 TARGET = cia
 
