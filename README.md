@@ -6,4 +6,4 @@ Cia(pronounced like "see-ah") is a module based, hot-loadable IRC bot framework 
 dependency
 ----
 
-* jsmn: MIT, https://github.com/zserge/jsmn 
+* [jsmn](https://github.com/zserge/jsmn): MIT, used for parse config file
