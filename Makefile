@@ -4,8 +4,8 @@ CC = gcc
 
 INC = ./INCLUDE
 LIB = libjsmn.a
-OBJ = cia.o
-SRC = cia.c
+OBJ = cia.o confparse.c
+SRC = cia.c confparse.c
 
 CFLAGS = -W -Wall -Wformat=2 -Wstrict-aliasing=2 -O0 -g -I $(INC)
 LFLAGS =
